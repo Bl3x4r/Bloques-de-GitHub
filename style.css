@@ -1,0 +1,31 @@
+
+#container1{
+    background-color: cyan;
+    height: 250px ;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#container2{
+    background-color:#FF4E29;
+    height: 250px ;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+#container3{
+    background-color:greenyellow;
+    height: 250px ;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+img{
+    height: 200px;
+    border: 1px black   solid; 
+}
