@@ -1,3 +1,8 @@
+h1{
+    display: flex;
+    justify-content: center;
+    height: 20px;
+}
 
 #container1{
     background-color: cyan;
@@ -23,7 +28,6 @@
     align-items: center;
     justify-content: space-evenly;
 }
-
 
 img{
     height: 200px;
